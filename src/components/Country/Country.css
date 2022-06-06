@@ -1,0 +1,12 @@
+.Country {
+    border: 4px solid mediumvioletred;
+    margin: 20px;
+    padding: 15px;
+    background-color: lavender;
+    color: rgb(3, 75, 75);
+}
+
+.Country img {
+    width: 200px;
+    height: 200px;
+}
