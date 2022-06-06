@@ -4,9 +4,10 @@
     padding: 15px;
     background-color: lavender;
     color: rgb(3, 75, 75);
+
 }
 
 .Country img {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 100px;
 }

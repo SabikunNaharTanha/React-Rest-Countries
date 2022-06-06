@@ -10,7 +10,7 @@ const Countries = () => {
     }, [])
     return (
         <div>
-            <h1>Hello Friends from Different Countries: {countries.length}</h1>
+            <h2>Hello Friends from Different Countries: {countries.length}</h2>
 
             <div className='countries-container'>
                 {
